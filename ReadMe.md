@@ -1,7 +1,7 @@
 ﻿# Univ Color
 This is a Simple Javascript function for getting Primary Color of University to Hex Code
 
-[DEMO Link](https://wjddnwls918.github.io/UnivColor/)
+[DEMO Link](https://nayunhwan.github.io/UnivColor/)
 
 
 ## University List
