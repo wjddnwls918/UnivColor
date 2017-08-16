@@ -1,4 +1,4 @@
-# Univ Color
+﻿# Univ Color
 This is a Simple Javascript function for getting Primary Color of University to Hex Code
 
 [DEMO Link](https://nayunhwan.github.io/UnivColor/)
@@ -128,3 +128,4 @@ This is a Simple Javascript function for getting Primary Color of University to 
 * 한양대
 * 호서대
 * 홍익대
+* 한국기술교육대
