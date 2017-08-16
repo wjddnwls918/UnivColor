@@ -1,7 +1,8 @@
 ﻿# Univ Color
 This is a Simple Javascript function for getting Primary Color of University to Hex Code
 
-[DEMO Link](https://github.com/wjddnwls918/UnivColor.git/index.html)
+[DEMO Link](https://nayunhwan.github.io/UnivColor/)
+
 
 ## University List
 * Manouba University
